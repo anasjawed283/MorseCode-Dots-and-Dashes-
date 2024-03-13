@@ -20,7 +20,7 @@ Welcome to the Morse Code Communicator project repository! This Arduino-based Io
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/morse-code-communicator-arduino.git
+   git clone https://github.com/anasjawed283/MorseCode-Dots-and-Dashes-.git
    ```
 
 2. Follow the setup instructions in the documentation to assemble the Arduino components and upload the Morse code communication sketch.
